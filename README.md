@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an Analista Programador estudiante de pregrado, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I have worked on various projects, including web applications for fans of Coldplay and a school task management app. I love to learn and build something new, productive, innovative, and creative.
+I am an Analyst Programmer undergraduate student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I have worked on various projects, including web applications for fans of Coldplay and a school task management app. I love to learn and build something new, productive, innovative, and creative.
 
 - 🌱 I’m currently learning ...
   - React with TypeScript
